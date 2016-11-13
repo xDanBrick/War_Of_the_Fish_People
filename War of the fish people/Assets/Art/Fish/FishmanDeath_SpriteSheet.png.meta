@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: bbd7550677bcdda4c9c2cbf654662e46
+timeCreated: 1459706280
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FishmanDeath_SpriteSheet_0
+    21300002: FishmanDeath_SpriteSheet_1
+    21300004: FishmanDeath_SpriteSheet_2
+    21300006: FishmanDeath_SpriteSheet_3
+    21300008: FishmanDeath_SpriteSheet_4
+    21300010: FishmanDeath_SpriteSheet_5
+    21300012: FishmanDeath_SpriteSheet_6
+    21300014: FishmanDeath_SpriteSheet_7
+    21300016: FishmanDeath_SpriteSheet_8
+    21300018: FishmanDeath_SpriteSheet_9
+    21300020: FishmanDeath_SpriteSheet_10
+    21300022: FishmanDeath_SpriteSheet_11
+    21300024: FishmanDeath_SpriteSheet_12
+    21300026: FishmanDeath_SpriteSheet_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FishmanDeath_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FishmanDeath_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FishmanDeath_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FishmanDeath_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FishmanDeath_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FishmanDeath_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FishmanDeath_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FishmanDeath_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FishmanDeath_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FishmanDeath_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FishmanDeath_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FishmanDeath_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 0
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FishmanDeath_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FishmanDeath_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

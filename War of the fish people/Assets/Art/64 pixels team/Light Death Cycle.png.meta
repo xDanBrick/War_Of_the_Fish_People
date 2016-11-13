@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 1046ec2190b839c44affa9a2851ec7a7
+timeCreated: 1459355422
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Light Death Cycle_0
+    21300002: Light Death Cycle_1
+    21300004: Light Death Cycle_2
+    21300006: Light Death Cycle_3
+    21300008: Light Death Cycle_4
+    21300010: Light Death Cycle_5
+    21300012: Light Death Cycle_6
+    21300014: Light Death Cycle_7
+    21300016: Light Death Cycle_8
+    21300018: Light Death Cycle_9
+    21300020: Light Death Cycle_10
+    21300022: Light Death Cycle_11
+    21300024: Light Death Cycle_12
+    21300026: Light Death Cycle_13
+    21300028: Light Death Cycle_14
+    21300030: Light Death Cycle_15
+    21300032: Light Death Cycle_16
+    21300034: Light Death Cycle_17
+    21300036: Light Death Cycle_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Light Death Cycle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Light Death Cycle_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Light Death Cycle_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Light Death Cycle_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Light Death Cycle_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Light Death Cycle_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Light Death Cycle_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Light Death Cycle_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Light Death Cycle_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Light Death Cycle_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Light Death Cycle_10
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Light Death Cycle_11
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Light Death Cycle_12
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Light Death Cycle_13
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 15
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Light Death Cycle_14
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 0
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Light Death Cycle_15
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Light Death Cycle_16
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 0
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Light Death Cycle_17
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Light Death Cycle_18
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 0
+        width: 19
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

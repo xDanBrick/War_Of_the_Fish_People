@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 2bd10296442b9d4459e7ee0c3e54e36d
+timeCreated: 1459355741
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Medium Death Cycle_0
+    21300002: Medium Death Cycle_1
+    21300004: Medium Death Cycle_2
+    21300006: Medium Death Cycle_3
+    21300008: Medium Death Cycle_4
+    21300010: Medium Death Cycle_5
+    21300012: Medium Death Cycle_6
+    21300014: Medium Death Cycle_7
+    21300016: Medium Death Cycle_8
+    21300018: Medium Death Cycle_9
+    21300020: Medium Death Cycle_10
+    21300022: Medium Death Cycle_11
+    21300024: Medium Death Cycle_12
+    21300026: Medium Death Cycle_13
+    21300028: Medium Death Cycle_14
+    21300030: Medium Death Cycle_15
+    21300032: Medium Death Cycle_16
+    21300034: Medium Death Cycle_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Medium Death Cycle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medium Death Cycle_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medium Death Cycle_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medium Death Cycle_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medium Death Cycle_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medium Death Cycle_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medium Death Cycle_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medium Death Cycle_7
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medium Death Cycle_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medium Death Cycle_9
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medium Death Cycle_10
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medium Death Cycle_11
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medium Death Cycle_12
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 0
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medium Death Cycle_13
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medium Death Cycle_14
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 0
+        width: 19
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medium Death Cycle_15
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 0
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medium Death Cycle_16
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 19
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medium Death Cycle_17
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 0
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 84e1ee97041354c46b1c6de7088b221f
+timeCreated: 1459871489
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: walkingleftspritesheet_0
+    21300002: walkingleftspritesheet_1
+    21300004: walkingleftspritesheet_2
+    21300006: walkingleftspritesheet_3
+    21300008: walkingleftspritesheet_4
+    21300010: walkingleftspritesheet_5
+    21300012: walkingleftspritesheet_6
+    21300014: walkingleftspritesheet_7
+    21300016: walkingleftspritesheet_8
+    21300018: walkingleftspritesheet_9
+    21300020: walkingleftspritesheet_10
+    21300022: walkingleftspritesheet_11
+    21300024: walkingleftspritesheet_12
+    21300026: walkingleftspritesheet_13
+    21300028: walkingleftspritesheet_14
+    21300030: walkingleftspritesheet_15
+    21300032: walkingleftspritesheet_16
+    21300034: walkingleftspritesheet_17
+    21300036: walkingleftspritesheet_18
+    21300038: walkingleftspritesheet_19
+    21300040: walkingleftspritesheet_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: walkingleftspritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkingleftspritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkingleftspritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkingleftspritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkingleftspritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 0
+        width: 256
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkingleftspritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 0
+        width: 256
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkingleftspritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkingleftspritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkingleftspritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 256
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkingleftspritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 257
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkingleftspritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 256
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkingleftspritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 258
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkingleftspritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 265
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkingleftspritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 0
+        width: 260
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkingleftspritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 0
+        width: 256
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkingleftspritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 0
+        width: 253
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkingleftspritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 4106
+        y: 0
+        width: 256
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkingleftspritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 4360
+        y: 0
+        width: 256
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkingleftspritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 0
+        width: 258
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkingleftspritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 4871
+        y: 0
+        width: 260
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkingleftspritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 0
+        width: 254
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
